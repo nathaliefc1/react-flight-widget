@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+{
+  "clientID": "IywgbBeRZTCnPMvcvJFhcSYw"
+  "clientSecret": "02QHqj1Rk9k5dGoTlqEFWi69.CvmKz0N-EahMkzNrtEPH4S7.0BNWWkgZRLxzIG0Q407pGhmHOwlC,D0e.rGJY.DamWZlUXJT6OOSSKkpqTZIEQh8WTH7tJKjZHKSLrC"
+  "token": "AstraCS:IywgbBeRZTCnPMvcvJFhcSYw:ee36b48da48b38c446e250a8b26c6dad9460e5110ee999a4cd739a98fe17ac80"
+}
