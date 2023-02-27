@@ -1,7 +1,7 @@
 const PORT = 8000
 const axios = require('axios').default
 const express = require('express')
-const cors = require('cors')
+//const cors = require('cors')
 require('dotenv').config()
 
 const app = express()
@@ -24,4 +24,4 @@ app.get('/flights', (req, res) => {
 })
 app.listen(PORT, () => console.log('running on port ' + PORT))
 
-//krakow, jamaica, St Louis, Oman, halifax
+//krakow, jamaica, St Louis, Oman, halifax 34.11
